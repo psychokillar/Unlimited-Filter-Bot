@@ -2,8 +2,8 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+Please find my plans & payment options below:
+Plan 1: Unlimited filters @ ₹60 or $1 / month :)
 
 See <i>/help</i> for commands and more details.</b>
 """
