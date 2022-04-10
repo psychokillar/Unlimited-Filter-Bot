@@ -5,7 +5,7 @@ class Script(object):
 Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
 @Cinemacollectionadmin 
 
-See <i>/help</i> for commands and more details.</b>
+നിങ്ങടെ 5 Friends നെ ഗ്രൂപ്പിൽ +Add ചെയ്തു Support ചെയുക. 🙏.</b>
 """
 
 
