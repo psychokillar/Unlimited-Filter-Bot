@@ -2,8 +2,8 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-Please find my plans & payment options below:
-Plan 1: Unlimited filters @ ₹60 or $1 / month @Cinemacollectionadmin 
+Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
+@Cinemacollectionadmin 
 
 See <i>/help</i> for commands and more details.</b>
 """
