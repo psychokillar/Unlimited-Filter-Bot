@@ -14,6 +14,20 @@ Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
 
 
 
+"""
+
+    ABOUT_MSG = """⭕️<b>My Name : Cinema Collection</b>
+
+⭕️<b>Creater :</b> @Cinemacollectionadmins   
+
+""
+
+
+
+
+
+
+
 
 
 
@@ -31,14 +45,3 @@ Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
 
 
 
-"""
-
-
-    ABOUT_MSG = """⭕️<b>My Name : Cinema Collection</b>
-
-⭕️<b>Creater :</b> @Cinemacollectionadmins   
-
-
-
-
-""
