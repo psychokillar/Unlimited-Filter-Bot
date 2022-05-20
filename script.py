@@ -1,9 +1,11 @@
 class Script(object):
 
     START_MSG = """<b>Hy {},
+Bot നിങ്ങൾക് Use ചെയ്യാൻ പറ്റുല്ല.
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+@Cinemacollectionadmin 
+
+നിങ്ങടെ 5 Friends നെ ഗ്രൂപ്പിൽ +Add ചെയ്തു Support ചെയുക. 🙏.
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,13 +50,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @Tamil_mv_movies1</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @Cinemacollectionadmins    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
